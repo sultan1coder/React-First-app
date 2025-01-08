@@ -1,0 +1,21 @@
+.menus {
+  display: flex;
+  gap: 0.6rem;
+  align-items: center;
+}
+
+.menus a {
+  text-decoration: none;
+  color: #000;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.menus button {
+  background-color: #000;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
